@@ -5,6 +5,7 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
+  <action id="DomCollectionControl.Add" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -15,6 +16,9 @@
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FileStructurePopup" />
   <action id="FileStructurePopupNew" />
   <action id="FindInPath" />
@@ -22,6 +26,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="GotoBookmark1" />
+  <action id="GotoChangedFile" />
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
+  <action id="Images.ShowThumbnails" />
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="NextOccurence" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
@@ -39,6 +51,10 @@
   <action id="RiderOpenSolution" />
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="SendEOF" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl 1" />

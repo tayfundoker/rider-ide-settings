@@ -1,10 +1,11 @@
-<keymap version="1" name="ReSharper copy" parent="ReSharper">
+<keymap version="1" name="OyunStudyosu" parent="ReSharper">
   <action id="ChangesView.Diff" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -13,10 +14,24 @@
   </action>
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileStructurePopup" />
+  <action id="FileStructurePopupNew" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="GotoBookmark1" />
   <action id="NextOccurence" />
+  <action id="ReSharperGotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="ReSharperNavigateTo" />
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>

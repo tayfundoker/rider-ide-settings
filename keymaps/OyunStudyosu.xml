@@ -3,7 +3,11 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="CompareTwoFiles" />
+  <action id="CopyPaths" />
   <action id="Diff.ShowDiff" />
   <action id="DomCollectionControl.Add" />
   <action id="DuplicatesForm.SendToLeft" />

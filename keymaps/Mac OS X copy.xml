@@ -1,4 +1,5 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ActivateProjectToolWindow" />
   <action id="ChangesView.Diff" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="shift meta c" />
@@ -6,11 +7,13 @@
   <action id="CompareTwoFiles" />
   <action id="CopyPaths" />
   <action id="Diff.ShowDiff" />
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoHome" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -27,11 +30,18 @@
   <action id="ReSharperGotoImplementation">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="Refactorings.QuickListPopupAction" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>

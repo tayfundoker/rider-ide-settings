@@ -5,6 +5,7 @@
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
   <action id="CopyPaths" />
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToLeft" />
@@ -12,6 +13,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FindNext">
@@ -19,6 +21,9 @@
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
@@ -42,6 +47,7 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>

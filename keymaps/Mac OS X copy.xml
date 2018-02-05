@@ -7,6 +7,7 @@
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="CopyPaths" />
+  <action id="Diff.SelectedChange" />
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorDeleteLine">
@@ -16,6 +17,10 @@
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="FileChooser.NewFolder" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -25,6 +30,8 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
   </action>

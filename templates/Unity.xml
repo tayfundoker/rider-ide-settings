@@ -99,4 +99,20 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="mediator" value="using strange.extensions.mediation.impl;&#10;$FILENAME$&#10;$PATH$&#10;namespace $NAMESPACE$&#10;{&#10;    public class $NAME$Mediator : EventMediator&#10;    {&#10;        [Inject]&#10;        public $NAME$View view { get; set; }&#10;&#10;        public override void OnRegister()&#10;        {&#10;            $END$&#10;        }&#10;&#10;        public override void OnRemove()&#10;        {&#10;        }&#10;    }&#10;}" description="Create a mediator" toReformat="true" toShortenFQNames="true">
+    <variable name="FILENAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAMESPACE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
 </templateSet>

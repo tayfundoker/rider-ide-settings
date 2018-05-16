@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution Explorer Selection" />
-    <option name="defaultScopeName" value="Solution Explorer Selection" />
-    <option name="SEARCH_SCOPE" value="Solution Explorer Selection" />
+    <option name="customScope" value="Open Files" />
+    <option name="defaultScopeName" value="Open Files" />
+    <option name="SEARCH_SCOPE" value="Open Files" />
     <option name="FILE_MASK" value="*.cs" />
     <recentFileMasks>
       <mask>*.properties</mask>

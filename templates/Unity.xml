@@ -129,4 +129,17 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="property" value="namespace $CTX$&#10;{&#10;class $CTX$&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="CTX" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
 </templateSet>

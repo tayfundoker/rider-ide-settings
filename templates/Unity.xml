@@ -129,7 +129,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="property" value="namespace $CTX$&#10;{&#10;class $CTX$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="property" value="namespace $CTX$&#10;{&#10;class $CTX$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="CTX" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />

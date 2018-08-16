@@ -129,7 +129,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="ContextView" value="[Inject(ContextKeys.CONTEXT_VIEW)]&#10;        public GameObject contextView { get; set; }" toReformat="true" toShortenFQNames="true">
+  <template name="ContextView" value="[Inject(ContextKeys.CONTEXT_VIEW)]&#10;        public GameObject contextView { get; set; }" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />

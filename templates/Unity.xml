@@ -129,15 +129,18 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="property" value="namespace $CTX$&#10;{&#10;class $CTX$&#10;}" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="CTX" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="ContextView" value="[Inject(ContextKeys.CONTEXT_VIEW)]&#10;        public GameObject contextView { get; set; }" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="HTML" value="false" />
       <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
       <option name="TypeScript" value="false" />
       <option name="XML" value="false" />
     </context>

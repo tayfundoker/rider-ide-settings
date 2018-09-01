@@ -5,6 +5,9 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -25,6 +28,16 @@
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="EditorUnSelectWord" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.NewFolder">
@@ -39,6 +52,9 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="GotoChangedFile" />
   <action id="GotoDeclaration">
@@ -46,6 +62,9 @@
   </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="NewElementSamePlace">
@@ -69,12 +88,18 @@
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SaveAsTemplate">
+    <keyboard-shortcut first-keystroke="ctrl quotedbl" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="SendEOF" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="UML.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />

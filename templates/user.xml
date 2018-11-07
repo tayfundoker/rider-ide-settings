@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="Test Method" value="[Order(1)]&#10;    [UnityTest]&#10;    public IEnumerator $Name$()&#10;    {&#10;&#10;      yield return Request(DataServiceCommand.$Name$, &quot;&quot;);&#10;&#10;      GenericResponseVo responseVo = GetData&lt;GenericResponseVo&gt;(DataServiceCommand.$Name$);&#10;      if (!responseVo.success)&#10;        Debug.LogError(responseVo.errorMessage);&#10;      Assert.IsTrue(responseVo.success);&#10;    }" description="" toReformat="true" toShortenFQNames="true">
+  <template name="Test Method" value="        [Order(1)]&#10;        [UnityTest]&#10;        public IEnumerator $Name$()&#10;        {&#10;    &#10;          yield return GetClient().Request(DataServiceCommand., &quot;&quot;);&#10;    &#10;          GenericResponseVo responseVo = GetClient().GetData&lt;GenericResponseVo&gt;(DataServiceCommand.);&#10;&#10;          Assert.IsTrue(responseVo.success);&#10;        }" description="" toReformat="true" toShortenFQNames="true">
     <variable name="Name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />

@@ -1,0 +1,30 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="test">
+      <action id="CommentByLineComment" />
+    </macro>
+    <macro name="test2">
+      <action id="NewDir" />
+      <typing text-keycode="84:1;69:0;83:0;84:0;85:1">TestU</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="73:1;84:1;69:0;83:0;84:0;77:1;79:0;68:0;69:0;76:0;73:1">ITestModelI</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="84:1;69:0;83:0;84:0;77:1;79:0;68:0;69:0;76:0">TestModel</typing>
+      <shortuct text="ENTER" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="73:1;78:0">In</typing>
+      <action id="EditorDown" />
+      <action id="EditorChooseLookupItem" />
+      <action id="SaveDocument" />
+      <typing text-keycode="32:0;46:1;32:0;84:0;69:0;83:0;84:0">&amp;#x20;:&amp;#x20;test</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="73:1;84:1;77:1">ITM</typing>
+      <action id="EditorDown" />
+      <action id="EditorChooseLookupItem" />
+      <action id="SaveDocument" />
+    </macro>
+  </component>
+</application>

@@ -8,7 +8,6 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
-  <action id="BraceOrQuoteOut" />
   <action id="ChangesView.Diff" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -17,18 +16,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="CompareTwoFiles" />
-  <action id="Console.Execute" />
-  <action id="Console.TableResult.EditValue">
-    <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="alt enter" />
-  </action>
   <action id="CopyPaths" />
   <action id="Diff.ShowDiff" />
-  <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="DomCollectionControl.Add" />
   <action id="DuplicatesForm.SendToLeft" />
-  <action id="EditorChooseLookupItem" />
-  <action id="EditorChooseLookupItemReplace" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -36,7 +27,6 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
-  <action id="EditorIndentSelection" />
   <action id="EditorUnSelectWord" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl equals" />
@@ -48,7 +38,6 @@
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
-  <action id="ExpandLiveTemplateByTab" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.NewFolder">
@@ -78,14 +67,10 @@
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="Images.ShowThumbnails" />
-  <action id="Images.Thumbnails.EnterAction" />
   <action id="NewElementSamePlace">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextOccurence" />
-  <action id="NextParameter" />
-  <action id="NextTemplateParameter" />
-  <action id="NextTemplateVariable" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
@@ -109,9 +94,6 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
-  <action id="SearchEverywhere.CompleteCommand" />
-  <action id="SearchEverywhere.NextTab" />
-  <action id="SearchEverywhere.SelectItem" />
   <action id="SendEOF" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl 1" />

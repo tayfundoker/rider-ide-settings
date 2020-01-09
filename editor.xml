@@ -1,9 +1,10 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="500" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="500" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Consolas" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />

@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TFTBot\Scripts\Project\Models\FirebaseConfig\FirebaseConfigModel.cs'" />
-    <option name="defaultScopeName" value="File '...\TFTBot\Scripts\Project\Models\FirebaseConfig\FirebaseConfigModel.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TFTBot\Scripts\Project\Models\FirebaseConfig\FirebaseConfigModel.cs'" />
+    <option name="customScope" value="File '...\Assets\Contexts\Launcher\Scripts\Command\LoadVersionInfoCommand.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\Contexts\Launcher\Scripts\Command\LoadVersionInfoCommand.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\Contexts\Launcher\Scripts\Command\LoadVersionInfoCommand.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

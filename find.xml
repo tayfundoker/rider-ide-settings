@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\Contexts\Map\Scripts\Config\MapContext.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\Contexts\Map\Scripts\Config\MapContext.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\Contexts\Map\Scripts\Config\MapContext.cs'" />
+    <option name="customScope" value="File '...\Assets\Contexts\Map\Scripts\View\CountryHud\CountryHudScreenView.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\Contexts\Map\Scripts\View\CountryHud\CountryHudScreenView.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\Contexts\Map\Scripts\View\CountryHud\CountryHudScreenView.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

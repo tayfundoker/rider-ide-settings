@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TFTBot\Scripts\Project\Forms\Login\Login.cs'" />
-    <option name="defaultScopeName" value="File '...\TFTBot\Scripts\Project\Forms\Login\Login.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TFTBot\Scripts\Project\Forms\Login\Login.cs'" />
+    <option name="customScope" value="File '...\TFTBot\Form1.cs'" />
+    <option name="defaultScopeName" value="File '...\TFTBot\Form1.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\TFTBot\Form1.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

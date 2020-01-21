@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\Modules\Location\Scripts\Command\Gps\LoadMapCommand.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\Modules\Location\Scripts\Command\Gps\LoadMapCommand.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\Modules\Location\Scripts\Command\Gps\LoadMapCommand.cs'" />
+    <option name="customScope" value="File '...\Assets\Project\Model\Grids\GridModel.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\Project\Model\Grids\GridModel.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\Project\Model\Grids\GridModel.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

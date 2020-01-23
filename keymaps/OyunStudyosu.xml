@@ -79,11 +79,15 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
   <action id="ReSharperNavigateTo" />
+  <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="RiderBackendAction-EncapsulateField">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="RiderOpenSolution" />
   <action id="RiderUnitTestDebugContextTwAction" />
@@ -99,6 +103,8 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>

@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\Contexts\Launcher\Scripts\Model\ConfirmPanel\ConfirmPanelModel.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\Contexts\Launcher\Scripts\Model\ConfirmPanel\ConfirmPanelModel.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\Contexts\Launcher\Scripts\Model\ConfirmPanel\ConfirmPanelModel.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

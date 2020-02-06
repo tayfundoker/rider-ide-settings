@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\Modules\Customization\Scripts\View\HandItemSelection\HandItemSelectionPanelView.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\Modules\Customization\Scripts\View\HandItemSelection\HandItemSelectionPanelView.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\Modules\Customization\Scripts\View\HandItemSelection\HandItemSelectionPanelView.cs'" />
+    <option name="customScope" value="File '...\Assets\Contexts\Lobby\Scripts\Command\InitLobbyCommand.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\Contexts\Lobby\Scripts\Command\InitLobbyCommand.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\Contexts\Lobby\Scripts\Command\InitLobbyCommand.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

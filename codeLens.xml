@@ -2,13 +2,13 @@
   <component name="CodeLensSettings">
     <enabled>
       <map>
-        <entry key="Derived symbols" value="false" />
-        <entry key="Exposing API" value="false" />
-        <entry key="Extension methods" value="false" />
-        <entry key="Unity implicit usage" value="false" />
-        <entry key="Unity serialized field" value="false" />
-        <entry key="Usages" value="false" />
-        <entry key="VcsAuthorCodeLensProvider" value="false" />
+        <entry key="Derived symbols" value="true" />
+        <entry key="Exposing API" value="true" />
+        <entry key="Extension methods" value="true" />
+        <entry key="Unity implicit usage" value="true" />
+        <entry key="Unity serialized field" value="true" />
+        <entry key="Usages" value="true" />
+        <entry key="VcsAuthorCodeLensProvider" value="true" />
       </map>
     </enabled>
   </component>

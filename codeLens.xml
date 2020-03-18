@@ -5,6 +5,7 @@
         <entry key="Derived symbols" value="false" />
         <entry key="Exposing API" value="false" />
         <entry key="Extension methods" value="false" />
+        <entry key="Unity Assets Usage" value="false" />
         <entry key="Unity implicit usage" value="false" />
         <entry key="Unity serialized field" value="false" />
         <entry key="Usages" value="false" />

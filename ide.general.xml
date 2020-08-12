@@ -22,7 +22,5 @@
     <entry key="ide.borderless.title.product" value="false" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
-    <entry key="actionSystem.fix.alt.gr" value="false" />
-    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>

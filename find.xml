@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\Contexts\LeagueOfSoccer\Scripts\Service\LeagueOfSoccerGameStarted\LeagueOfSoccerGameStartedProcessor.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\Contexts\LeagueOfSoccer\Scripts\Service\LeagueOfSoccerGameStarted\LeagueOfSoccerGameStartedProcessor.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\Contexts\LeagueOfSoccer\Scripts\Service\LeagueOfSoccerGameStarted\LeagueOfSoccerGameStartedProcessor.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
   </component>
 </application>

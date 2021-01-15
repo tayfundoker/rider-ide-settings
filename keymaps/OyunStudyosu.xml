@@ -106,7 +106,6 @@
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
-  <action id="Vcs.ReformatCommitMessage" />
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />

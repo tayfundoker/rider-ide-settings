@@ -10,7 +10,9 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
-  <action id="CodeCleanup" />
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
@@ -85,9 +87,7 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift ctrl f" />
-  </action>
+  <action id="ReformatCode" />
   <action id="RiderOpenSolution" />
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
@@ -106,6 +106,7 @@
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="Vcs.ReformatCommitMessage" />
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />

@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="CsvPlugin" displayType="NONE" />
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" />
   </component>
 </application>

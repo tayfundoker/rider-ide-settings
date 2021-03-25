@@ -1,4 +1,4 @@
-<templateSet group="PolityTemplates">
+<templateSet group="JIBGames">
   <template name="confirmPanel" value="confirmPanelModel.Setup(&#10;        &quot;$Title$&quot;,&#10;        &quot;$Description$&quot;,&#10;        () =&gt; { $OnConfirm$ },&#10;        () =&gt; { $OnCancel$ },&#10;        &quot;$ConfirmButtonLabel$&quot;,&#10;        &quot;$CancelButtonLabel$&quot;&#10;      );" description="Adds commands required for the confirmation panel" toReformat="true" toShortenFQNames="true">
     <variable name="Title" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="Description" expression="" defaultValue="Description" alwaysStopAt="true" />

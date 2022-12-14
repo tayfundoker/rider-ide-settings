@@ -3,6 +3,7 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="Lesson5Notes" type="AUTO_DETECTED" />
+      <mapping pattern="Lesson8Notes" type="PLAIN_TEXT" />
       <mapping ext="c#" type="Solution File" />
     </extensionMap>
   </component>
